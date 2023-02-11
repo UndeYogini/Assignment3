@@ -1,0 +1,59 @@
+[
+    {
+        "category": "Rice",
+        "categoryID": "1",
+        "categoryImage" : "Biryani.jpeg",
+        "menus": [
+            {
+                "name" : "Biryani",
+                "image" : "VegBhuna.jpeg"
+            },
+            {
+                "name" : "Pulav",
+                "image" : "VegBhuna.jpeg"
+            },
+            {
+                "name" : "Steam Rice",
+                "image" : "VegBhuna.jpeg"
+            },
+            {
+                "name" : "Khichadi",
+                "image" : "VegBhuna.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "SouthDish",
+        "categoryID": "2",
+        "categoryImage" : "Dosa.jpeg",
+        "menus" : [
+            {
+                "name" : "Dosa",
+                "image" : "VegBhuna.jpeg"
+            },
+            {
+                "name" : "Idli",
+                "image" : "VegBhuna.jpeg"
+            },
+            {
+                "name" : "Uttappa",
+                "image" : "VegBhuna.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Thali",
+        "categoryID": "3",
+        "categoryImage" : "Thali.jpeg",
+        "menus" : [
+            {
+                "name" : "Without Rice",
+                "image" : "VegBhuna.jpeg"
+            },
+            {
+                "name" : "Rice Plate",
+                "image" : "VegBhuna.jpeg"
+            }
+        ]
+    }
+]
